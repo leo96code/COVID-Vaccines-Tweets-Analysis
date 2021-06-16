@@ -36,4 +36,4 @@ To install Spacy Modules, you need to run:
 1. python -m spacy download en_core_web_sm
 2. python -m spacy download en_core_web_lg
 
-Note: These two modules are aroun 800mb in size. So be patient, they take time to download and the also in execution.
+Note: These two modules are around 800mb in size. So be patient, they take time to download and the also in execution.

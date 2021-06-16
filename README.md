@@ -1,5 +1,13 @@
 # Pfizer-Vaccines-Tweets-Analysis
 Pfizer Vaccine Tweets Visual Analysis
+
+Group Members:
+1. Muhammad Jawad Bashir (330295) – Team Lead 
+2. Rizki Haleemdeen (359407) 
+3. Abdul Subhan (326966) 
+4. Mariam (329693)
+
+
 Following Libraries are needed to be installed in order to run this project:
 1. Numpy
 2. Matplotlib

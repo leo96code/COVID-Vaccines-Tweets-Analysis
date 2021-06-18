@@ -1,5 +1,5 @@
 # Pfizer-Vaccines-Tweets-Analysis
-Pfizer Vaccine Tweets Visual Analysis
+Pfizer Vaccine Tweets Visual & Sentiment Analysis
 
 [NOTE: Kindly click on the notebook, it will open and has all of the visualizations]
 

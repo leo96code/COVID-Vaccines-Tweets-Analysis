@@ -4,7 +4,7 @@ Pfizer Vaccine Tweets Visual & Sentiment Analysis
 [NOTE: Kindly click on the notebook, it will open and has all of the visualizations]
 
 
-Task: In this notebook, we analyzed a COOVID-19 vaccines tweets dataset. We explored different tweets' attributes and user demographics. Finally, we also did the sentiment analysis of tweets in order to check the dominant sentiment about Covid-19 vaccines.
+Task: In this notebook, we analyzed a COVID-19 vaccines tweets dataset. We explored different tweets' attributes and user demographics. Finally, we also did the sentiment analysis of tweets in order to check the dominant sentiment about Covid-19 vaccines.
 
 It consists of following Sections and subsections:
 
